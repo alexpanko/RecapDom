@@ -9,3 +9,4 @@ Recap of DOM Manipulation
 - https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
 - https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf
 - https://developer.mozilla.org/en-US/docs/Web/Events
+- https://colorhunt.co/
